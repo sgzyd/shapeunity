@@ -2,7 +2,7 @@ name: hg
 
 io:
   logdir: logs/
-  datadir: data/SU3/
+  datadir: data/test_SU3/
   resume_from:
   num_workers: 4
   tensorboard_port: 0
